@@ -1,0 +1,25 @@
+{
+  "name": "partyplanner",
+  "version": "1.0.0",
+  "description": "party planning for team",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "index.js"
+  },
+  
+  "author": "Devanand Jha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/devanandjha/PartyPLanner.git"
+  },
+  "keywords": [
+    "devanandjha"
+  ]
+}
